@@ -1,0 +1,21 @@
+body{
+    background-color:white;
+}
+
+.wrapper .logo img{
+    max-width:40%;
+}
+
+.wrapper .submit_btn{
+    padding: 15px;
+    font-weight: 500;
+}
+
+.wrapper .login_with img{
+    max-width: 8%;
+}
+
+.wrapper .login_with:hover{
+    background-color: rgb(237, 237, 237);
+    box-shadow: 2px;
+}
